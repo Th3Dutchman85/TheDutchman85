@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDutchman85
+- 👋 Hi, I’m @TheDutchman85 A.K.A Lucas Veldman
 - 👀 I’m interested in game development and design
 - 🌱 I’m currently learning game graphics and VFX
 - 💞️ I’m looking to collaborate on game projects
